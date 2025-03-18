@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "nyvoters2004",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "427d373b-ea24-4aea-94c5-ec141ec6a224",
+      "database_name": "nyvoters2004"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
